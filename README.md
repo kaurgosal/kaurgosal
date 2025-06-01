@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @kaurgosal
 - 👀 I’m interested in learning and working with technology.
-- 🌱 I’m currently learning Machine Learning and Artificial Intelligence.
-- 💞️ I’m looking to collaborate on work.
+- 🌱 I’m currently working with Machine Learning and Artificial Intelligence.
 - 📫 How to reach me : Email,Linkedin
 - 😄 Pronouns: She/Her
 - ⚡ Fun fact: I talk to machines more than humans — and they actually listen. #AIWhisperer 🔍📊
